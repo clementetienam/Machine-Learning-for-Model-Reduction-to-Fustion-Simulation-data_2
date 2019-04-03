@@ -1,0 +1,7 @@
+function y=piecewise(x)
+for i=1:numel(x)
+if (x(i)>=-10 || -5>x(i))
+    y(i=sin(x(i));
+else if 
+    end
+end
